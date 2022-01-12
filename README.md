@@ -1,4 +1,4 @@
-# KELOMPOK 6 (KEPEGAWAIAN)
+# KELOMPOK 6 (SQL KEPEGAWAIAN)
 
 Anngota Kelompok :
 1. 5200411200 Alfandi Yahya Muhaimin
